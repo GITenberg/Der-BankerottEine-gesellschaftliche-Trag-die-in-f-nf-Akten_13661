@@ -1,0 +1,27 @@
+_repo: Der-BankerottEine-gesellschaftliche-Trag-die-in-f-nf-Akten_13661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, Florian
+    gutenberg_agent_id: '5151'
+    url: http://www.gutenberg.org/2009/agents/5151
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13661'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+title: 'Der Bankerott
+
+  Eine gesellschaftliche Tragödie in fünf Akten'
+url: http://www.gutenberg.org/ebooks/13661
